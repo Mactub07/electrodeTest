@@ -12,7 +12,7 @@
               "isReleased": false,
               "binary": null,
               "yarnLocks": {},
-              "nativeDeps": ["react-native"@0.51.0"],
+              "nativeDeps": ["react-native@0.51.0"],
               "miniApps": {
                 "container": []
               },
